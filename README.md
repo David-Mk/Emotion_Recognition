@@ -6,3 +6,4 @@ Files work in the following way:<br>
 <br><b>3. Detect.py: </b> Loading trained model and recognition process
 <br><br>If you want to add your own facial landmarks and/or change used model - you need to go though all steps.
 <br>If you want to use already pretrained model and recorded facial data - just run detect.py and enjoy ;)
+<br>Additionaly, there are 3 .csv files - coords, coords_base and coords_orig. <b>Coords_base</b> is just set of x, y, z coordinates in case you want to start recording a new - may save you some works. <b>Coords</b> is currently working file and <b>Coords_orig</b> is it's back-up. 
